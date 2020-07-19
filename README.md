@@ -21,7 +21,8 @@ Como variables proxy de ingreso se tomó a la información de pobreza del CONEVA
       readxl
 
 **Referencias:** 
-[INFONAVIT]: datos anonimizados de precios de venta promedio por municipio y salario diario integrado promedio por municipio.
+
+**INFONAVIT**: datos anonimizados de precios de venta promedio por municipio y salario diario integrado promedio por municipio.
 
 [CONEVAL](https://www.coneval.org.mx/Medicion/Paginas/AE_pobreza_municipal.aspx). 
 
