@@ -9,7 +9,7 @@ Aún no se conoce el impacto económico que tendrá la pandemia en México,pero 
 
 Motivados por esta disyuntiva queremos probar que existe una relación inversa entre defunciones, casos confirmados con SARS-COVID-19 y el ingreso promedio. Para hacer esto, nos basamos en la investigación desarrollada por Raj Chetty en Estados Unidos donde se observó que existe una relación negativa entre el ingreso promedio de un barrio y el número de casos confirmados con SARS-COVID-19. 
 
-Como variables proxy de ingreso se tomó a la información de pobreza del CONEVAL y datos agragados y anonimizados por municipio del Infonavit. Se consideró el precio de venta promedio por municipio como proxy de municipios "caras" o "baratos".
+Como variables proxy de ingreso se tomó a la información de pobreza del CONEVAL y datos agregados y anonimizados por municipio del Infonavit. Se consideró el precio de venta promedio por municipio como proxy de municipios "caros" o "baratos".
 
 # Paquete estadístico
 
