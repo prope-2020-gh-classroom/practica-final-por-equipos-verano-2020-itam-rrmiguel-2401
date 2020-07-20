@@ -7,9 +7,11 @@
 
 Aún no se conoce el impacto económico que tendrá la pandemia en México,pero es muy probable que la contracción económica tenga un impacto regresivo, es decir, que afecte más a los que menos tienen. El tener un mejor salario es un buen indicador de mejor calidad de vida. Con salarios más altos, tienes más recursos para protegerte de la pandemia. Puedes quedarte en casa. Cuando el salario es precario, el costo de oportunidad de quedarte en casa suele ser mayor. 
 
-Motivados por esta disyuntiva queremos probar que existe una relación inversa entre defunciones, casos confirmados con SARS-COVID-19 y el ingreso promedio. Para hacer esto, nos basamos en la investigación desarrollada por Raj Chetty en Estados Unidos donde se observó que existe una relación negativa entre el ingreso promedio de un barrio y el número de casos confirmados con SARS-COVID-19. 
+Motivados por esta disyuntiva queremos probar que existe una relación inversa entre defunciones, casos confirmados con SARS-COVID-19 y el ingreso promedio. Para hacer esto, nos basamos en la investigación desarrollada por Raj Chetty en Estados Unidos donde se observó que el COVID-19 induce a los hogares de ingresos altos a aislarse y, en consecuencia, reducir el su gasto en sectores que requieren la interacción física. Este shock en el gasto de hogares de altos ingresos conduce a una disminución en la ganancia de las empresas y por lo tanto en pérdidas de empleos de trabajadores de ingresos bajos, quienes normalmente trabajan en sectores con interacción presencial. 
 
-Como variables proxy de ingreso se tomó a la información de pobreza del CONEVAL y datos agregados y anonimizados por municipio del Infonavit. Se consideró el precio de venta promedio por municipio como proxy de municipios "caros" o "baratos".
+En México, lo anterior puede traducirse en que los trabajadores de menores ingresos tienen mayor movilidad ya que no pueden dejar de trabajar. Por lo tanto, tienen un mayor riesgo de conrtagio.Se estabablece la hipótesis de que dichos trabajadores se trasladan a zonas céntricas, en donde hay más fuentes de empleo. Generalmente, en las zonas céntricas,que concentran el empleo, el precio promedio de venta de vivienda alto.
+
+De acuerdo con lo anterior, nuestra hipótesis de investigación es que, dado que los casos confirmados se registran en el municipio donde habita la persona infectada, habrá una relación positiva entre el número de casos confirmados y defunciones por SARS-COVID-19 con respecto al ingreso o situación de pobreza del municipio.
 
 # Instrucciones:
 
