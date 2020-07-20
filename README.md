@@ -11,6 +11,15 @@ Motivados por esta disyuntiva queremos probar que existe una relación inversa e
 
 Como variables proxy de ingreso se tomó a la información de pobreza del CONEVAL y datos agregados y anonimizados por municipio del Infonavit. Se consideró el precio de venta promedio por municipio como proxy de municipios "caros" o "baratos".
 
+# Instrucciones:
+
+El orden de análisis de los archivos es el siguiente:
+
+* 1. PreparacionDatos: se construye la base de datos utilizada para análisis. 
+* 2. Análisis_descriptivo: se realiza el análisis de estadística descriptiva de los datos. 
+* 3. AnálisisRegresión: se realiza el análisis de modelos de regresión. 
+* 4. Reporte_escrito: conclusión de resultados y hallazagos de los modelos. 
+
 # Paquete estadístico
 
 #    **R**
@@ -19,10 +28,12 @@ Como variables proxy de ingreso se tomó a la información de pobreza del CONEVA
       tidyverse
       stringr
       readxl
+      lmtest
+      sandwich
 
 **Referencias:** 
 
-**INFONAVIT**: datos anonimizados de precios de venta promedio por municipio y salario diario integrado promedio por municipio.
+[INFONAVIT]: datos anonimizados de precios de venta promedio por municipio y salario diario integrado promedio por municipio.
 
 [CONEVAL](https://www.coneval.org.mx/Medicion/Paginas/AE_pobreza_municipal.aspx). 
 
